@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
-
+// Mathieu, Yacine, Idir, Tarshini, Marine
 
 public class Taquin {
 
